@@ -11,10 +11,9 @@
         android:id="@+id/num1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="75dp"
         android:layout_gravity="center"
-        android:hint="Enter Number 1"
-        />
+        android:layout_margin="75dp"
+        android:hint="Enter Number 1" />
 
     <EditText
         android:id="@+id/num2"
