@@ -10,9 +10,9 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        add.setOnClickListener(View.OnClickListener() {
+        add.setOnClickListener {
             val result = num1.text.toString().toInt() + num2.text.toString().toInt()
             ans.text = result.toString();
-        })
+        }
     }
 }
