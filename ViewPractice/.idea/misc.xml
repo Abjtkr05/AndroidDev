@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/Burger King_background.xml" value="0.2115" />
-        <entry key="app/src/main/res/layout/activity_linear_layout.xml" value="0.28072916666666664" />
+        <entry key="app/src/main/res/drawable/divider.xml" value="0.2115" />
+        <entry key="app/src/main/res/layout/activity_linear_layout.xml" value="0.2884322678843227" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2947916666666667" />
       </map>
     </option>
