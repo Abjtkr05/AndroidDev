@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="trying_framelayout">trying FrameLayout</string>
+</resources>

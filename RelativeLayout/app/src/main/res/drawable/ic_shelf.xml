@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="278dp"
+    android:height="513dp"
+    android:viewportWidth="278"
+    android:viewportHeight="513">
+    <path
+        android:fillColor="#555"
+        android:name="Shape 33"
+        android:pathData="m0 -20h278v620h-278v-620z" />
+    <path
+        android:fillColor="#a4f5fe"
+        android:name="Shape 25"
+        android:pathData="m40 266h201c2.76 0 5 2.27 5 5.07v0.85c0 2.8 -2.24 5.07 -5 5.07h-201c-2.76 0 -5 -2.27 -5 -5.07v-0.85c0 -2.8 2.24 -5.07 5 -5.07z" />
+    <path
+        android:fillColor="#9f7142"
+        android:name="Shape 25 copy 4"
+        android:pathData="m40 175h201c2.76 0 5 2.27 5 5.07v0.85c0 2.8 -2.24 5.07 -5 5.07h-201c-2.76 0 -5 -2.27 -5 -5.07v-0.85c0 -2.8 2.24 -5.07 5 -5.07z" />
+    <path
+        android:fillColor="#fff"
+        android:name="Shape 25 copy 6"
+        android:pathData="m40 357h201c2.76 0 5 2.27 5 5.07v0.85c0 2.8 -2.24 5.07 -5 5.07h-201c-2.76 0 -5 -2.27 -5 -5.07v-0.85c0 -2.8 2.24 -5.07 5 -5.07z" />
+    <path
+        android:fillColor="#fff"
+        android:fillAlpha="0.24"
+        android:name="Shape 25 copy 8"
+        android:pathData="m42.36 357.91c-2.7 0 -4.88 1.24 -4.88 2.78v0.46c0 1.54 2.19 2.78 4.88 2.78h196.28c2.7 0 4.88 -1.25 4.88 -2.78v-0.46c0 -1.54 -2.19 -2.78 -4.88 -2.78z" />
+</vector>

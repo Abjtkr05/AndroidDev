@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sinup</string>
+    <string name="your_email_address">Your email address</string>
+    <string name="your_password">Your Password</string>
+</resources>
