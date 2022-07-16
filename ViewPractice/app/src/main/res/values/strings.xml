@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ViewPractice</string>
+    <string name="linear_layout">Linear Layout</string>
 </resources>
