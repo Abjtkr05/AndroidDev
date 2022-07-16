@@ -13,5 +13,9 @@ class MainActivity : AppCompatActivity() {
             intent = Intent(this,LinearLayout::class.java)
             startActivity(intent)
         }
+        Constraint.setOnClickListener{
+            intent = Intent(this,ConstraintLayout::class.java)
+            startActivity(intent)
+        }
     }
 }

@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
+    android:background="@color/black"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
@@ -12,7 +13,18 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        android:textSize="32sp"
+        android:textColor="@color/white"
         android:text="@string/linear_layout"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/Constraint"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:text="@string/constraint_layout"
         android:gravity="center" />
 
 </LinearLayout>
