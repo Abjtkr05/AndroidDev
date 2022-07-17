@@ -12,7 +12,28 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         recView.layoutManager = LinearLayoutManager(this)
+
         var model = ContactModel(R.drawable.burger,"JUNK FOOD")
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
+        List.add(model)
         List.add(model)
         List.add(model)
         List.add(model)
@@ -38,4 +59,5 @@ class MainActivity : AppCompatActivity() {
         recView.layoutManager = LinearLayoutManager(this)
         recView.adapter = adapter1
     }
+
 }
