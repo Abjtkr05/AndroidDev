@@ -1,4 +1,3 @@
 package com.example.todo.Models
 
-class models {
-}
+data class Todo (val Task : String, val done : Boolean )
