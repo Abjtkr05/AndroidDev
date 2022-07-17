@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
             var dataA = data(VAR)
             data_Array.add(dataA)
             myAddapter.notifyDataSetChanged()
-            val es = " "
+            val es = ""
             taskInput.setText(es)
             taskInput.hint = "Enter Task"
 
