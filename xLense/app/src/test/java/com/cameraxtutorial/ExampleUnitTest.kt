@@ -1,4 +1,4 @@
-package com.example.xlense
+package com.cameraxtutorial
 
 import org.junit.Test
 
