@@ -1,4 +1,4 @@
-package com.cameraxtutorial
+package com.xLense
 
 import org.junit.Test
 

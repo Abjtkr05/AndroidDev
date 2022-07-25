@@ -1,4 +1,4 @@
-package com.cameraxtutorial
+package com.xLense
 
 import android.content.Intent
 import android.graphics.Color
@@ -17,7 +17,7 @@ import androidx.camera.core.Preview
 import androidx.camera.lifecycle.ProcessCameraProvider
 import androidx.core.content.ContextCompat
 import androidx.core.net.toUri
-import com.cameraxtutorial.databinding.ActivityMainBinding
+import com.xLense.databinding.ActivityMainBinding
 import com.google.android.material.snackbar.Snackbar
 import com.google.common.util.concurrent.ListenableFuture
 import java.io.File

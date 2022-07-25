@@ -1,9 +1,9 @@
-package com.cameraxtutorial
+package com.xLense
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.cameraxtutorial.databinding.ActivityGalleryBinding
+import com.xLense.databinding.ActivityGalleryBinding
 import java.io.File
 
 class GalleryActivity : AppCompatActivity() {
